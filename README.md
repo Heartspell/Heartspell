@@ -15,6 +15,8 @@
   <a href="https://codeforces.com/profile/amirhanordobaev" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
 </p>
+    
+# 🏆 About Me:
 
 ```Kotlin
 val amirhan = DeveloperProfile(
@@ -32,3 +34,15 @@ val amirhan = DeveloperProfile(
     currentFocus = "PhD Degree in future"
 )
 ```
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Heartspell&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Heartspell&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Heartspell&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Heartspell&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
