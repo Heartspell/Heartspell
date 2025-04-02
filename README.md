@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Amirhan Ordobaev</h1>
+<h1 align="center">Amirhan Ordobaev</h1>
 <p align="center">
   <b>C# Developer | Learning Kotlin | Competitive Programmer | Researcher</b>
 </p>
