@@ -12,21 +12,6 @@
 </p>
 
 ```Kotlin
-data class DeveloperProfile(
-    val name: String,
-    val pronouns: List<String>,
-    val code: List<String>,
-    val askMeAbout: List<String>,
-    val technologies: Technologies,
-    val architecture: List<String>,
-    val currentFocus: String
-)
-
-data class Technologies(
-    val backEnd: Map<String, List<String>>,
-    val databases: List<String>
-)
-
 val amirhan = DeveloperProfile(
     name = "Amirhan",
     pronouns = listOf("he", "him"),
