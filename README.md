@@ -4,11 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-%230078D7.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white")>
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/ICPC-%230092CC.svg?style=for-the-badge&logo=codeforces&logoColor=white">
   <img src="https://img.shields.io/badge/Codeforces-%231E90FF.svg?style=for-the-badge&logo=codeforces&logoColor=white">
-  <img src="https://img.shields.io/badge/ACMP-%234A90E2.svg?style=for-the-badge">
 </p>
 
 ```Kotlin
