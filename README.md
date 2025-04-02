@@ -2,7 +2,11 @@
 <p align="center">
   <b>C# Developer | Learning Kotlin | Competitive Programmer | Researcher</b>
 </p>
-
+<p align="center">
+  <a href="https://orcid.org/0009-0008-2713-3539" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0008--2713--3539-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-%2368217A?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
