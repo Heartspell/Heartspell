@@ -1,4 +1,9 @@
 <h1 align="center">Amirhan Ordobaev</h1>
+
+> **"It’s not that I’m so smart, it’s just that I stay with problems longer."**  
+> — Albert Einstein
+--
+
 <p align="center">
   <b>C# Developer | Learning Kotlin | Competitive Programmer | Researcher | Enthusiast | Lecturer</b>
 </p>
