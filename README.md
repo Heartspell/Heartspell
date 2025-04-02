@@ -29,7 +29,7 @@ data class Technologies(
 val amirhan = DeveloperProfile(
     name = "Amirhan",
     pronouns = listOf("he", "him"),
-    code = listOf("C#", "Kotlin"),
+    code = listOf("C#", "Kotlin", "C++"),
     askMeAbout = listOf("competitive programming", "problem-solving", "researching"),
     technologies = Technologies(
         backEnd = mapOf(
@@ -38,7 +38,6 @@ val amirhan = DeveloperProfile(
         ),
         databases = listOf("SQL Server")
     ),
-    architecture = listOf("Event-driven architecture", "Microservices", "Domain-driven design"),
-    currentFocus = "Learning Kotlin"
+    currentFocus = "PhD Degree in future"
 )
 ```
