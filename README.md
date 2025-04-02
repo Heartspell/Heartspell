@@ -35,21 +35,17 @@ val amirhan = DeveloperProfile(
     name = "Amirhan",
     pronouns = listOf("he", "him"),
     code = listOf("C#", "Kotlin", "C++"),
-    askMeAbout = listOf("competitive programming", "problem-solving", "researching", "debugging in the middle of the night", "coffee addiction"),
+    askMeAbout = listOf("competitive programming", "problem-solving", "researching", "debugging in the middle of the night"),
     technologies = Technologies(
         backEnd = mapOf(
             "C#" to listOf("ASP.Net Core", "Entity Framework", "StackOverflow FAQs"),
-            "Kotlin" to listOf("Firebase", "Kotlin's magic features")
+            "Kotlin" to listOf("Kotlin's magic features")
         ),
-        databases = listOf("SQL Server", "NoSQL", "Endless Stack of Documentation")
+        databases = listOf("SQL Server", "NoSQL")
     ),
     currentFocus = "PhD Degree"
-
-
-   val hobbies = listOf(
-    "Solving problems like it's a SSS-Rank stylish",
-)
-    val goal = "Stay awake and never stop learning"
+    hobbies = "Solving problems like it's a SSS-Rank stylish",
+    goal = "Stay awake and never stop learning"
 )
 ```
 
