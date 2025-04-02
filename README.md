@@ -76,9 +76,9 @@ I look forward to making new connections and contributing to the programming com
 To showcase some of my accomplishments and skills, here are a few badges:
 
 - Competitive Programming:
-  - ![Codeforces](https://img.shields.io/badge/Codeforces-Rating%3A%20%5BINSERT_RATING_HERE%5D-red&?style=flat&logo=codeforces&labelColor=grey)
-  - ![ICPC](https://img.shields.io/badge/ICPC-Achievement%3A%20%5BINSERT_ACHIEVEMENT_HERE%5D-brightgreen&?style=flat&logo=icpc&labelColor=grey)
-  - ![ACMP](https://img.shields.io/badge/ACMP-Advanced%3A%20%5BINSERT_ACHIEVEMENT_HERE%5D-blue&?style=flat&logo=acmp&labelColor=grey)
+  - ![Codeforces](https://img.shields.io/badge/Codeforces-Rating%3A%20%51479%5D-red&?style=flat&logo=codeforces&labelColor=grey)
+  - ![ICPC](https://img.shields.io/badge/ICPC-Achievement%3A%20%5BKyrgyzstanRegionalContest%5D-brightgreen&?style=flat&logo=icpc&labelColor=grey)
+  - ![ACMP](https://img.shields.io/badge/ACMP-Advanced%3A%20%5B6213/279329%5D-blue&?style=flat&logo=acmp&labelColor=grey)
 These badges reflect my dedication and commitment to continuous learning and improvement.
 
 Cheers! 😄
