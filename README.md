@@ -14,7 +14,11 @@
   <img src="https://img.shields.io/badge/ICPC-%230092CC.svg?style=for-the-badge&logo=codeforces&logoColor=white">
   <img src="https://img.shields.io/badge/Codeforces-%231E90FF.svg?style=for-the-badge&logo=codeforces&logoColor=white">
 </p>
-
+<p align="center">
+  <a href="https://codeforces.com/profile/amirhanordobaev" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
+</p>
 ```Kotlin
 val amirhan = DeveloperProfile(
     name = "Amirhan",
