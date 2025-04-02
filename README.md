@@ -5,6 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-%2368217A?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/ICPC-%230092CC.svg?style=for-the-badge&logo=codeforces&logoColor=white">
   <img src="https://img.shields.io/badge/Codeforces-%231E90FF.svg?style=for-the-badge&logo=codeforces&logoColor=white">
