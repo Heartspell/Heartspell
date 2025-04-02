@@ -1,10 +1,17 @@
 <h1 align="center">Amirhan Ordobaev</h1>
 <p align="center">
-  <b>C# Developer | Learning Kotlin | Competitive Programmer | Researcher</b>
+  <b>C# Developer | Learning Kotlin | Competitive Programmer | Researcher | Enthusiast | Lecturer</b>
 </p>
 <p align="center">
   <a href="https://orcid.org/0009-0008-2713-3539" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-0009--0008--2713--3539-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/amirhan-ordobaev-47543023b/" target="_blank">
+<img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
   </a>
 </p>
 <p align="center">
@@ -14,6 +21,7 @@
   <img src="https://img.shields.io/badge/ICPC-%230092CC.svg?style=for-the-badge&logo=codeforces&logoColor=white">
   <a href="https://codeforces.com/profile/amirhanordobaev" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
 </p>
     
 # 🏆 About Me:
@@ -23,26 +31,21 @@ val amirhan = DeveloperProfile(
     name = "Amirhan",
     pronouns = listOf("he", "him"),
     code = listOf("C#", "Kotlin", "C++"),
-    askMeAbout = listOf("competitive programming", "problem-solving", "researching"),
+    askMeAbout = listOf("competitive programming", "problem-solving", "researching", "debugging in the middle of the night", "coffee addiction"),
     technologies = Technologies(
         backEnd = mapOf(
-            "C#" to listOf("ASP.Net Core", "Entity Framework"),
-            "Kotlin" to listOf("Firebase")
+            "C#" to listOf("ASP.Net Core", "Entity Framework", "StackOverflow FAQs"),
+            "Kotlin" to listOf("Firebase", "Kotlin's magic features")
         ),
-        databases = listOf("SQL Server")
+        databases = listOf("SQL Server", "NoSQL", "Endless Stack of Documentation")
     ),
-    currentFocus = "PhD Degree in future"
+    currentFocus = "PhD Degree"
+
+
+   val hobbies = listOf(
+    "Solving problems like it's a SSS-Rank stylish",
+)
+    val goal = "Stay awake and never stop learning"
 )
 ```
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Heartspell&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Heartspell&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Heartspell&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=Heartspell&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
