@@ -45,7 +45,7 @@ val amirhan = DeveloperProfile(
     ),
     currentFocus = "PhD Degree"
     hobbies = "Solving problems like it's a SSS-Rank stylish",
-    goal = "Stay awake and never stop learning"
+    goal = "Stay awake and never stop researching"
 )
 ```
 
