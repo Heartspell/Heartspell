@@ -4,7 +4,7 @@
 > — Albert Einstein
 
 <p align="center">
-  <b>C# Developer | Learning Kotlin | Competitive Programmer | Researcher | Enthusiast | Lecturer</b>
+  <b>C# Developer | Learning Kotlin | Competitive Programmer | Researcher | Enthusiast</b>
 </p>
 <p align="center">
   <a href="https://orcid.org/0009-0008-2713-3539" target="_blank">
