@@ -30,7 +30,7 @@
     
 # 🏆 About Me:
 
-```Kotlin
+```
 val amirhan = DeveloperProfile(
     name = "Amirhan",
     pronouns = listOf("he", "him"),
