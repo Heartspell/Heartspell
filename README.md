@@ -32,7 +32,7 @@ val amirhan = DeveloperProfile(
     name = "Amirhan",
     pronouns = listOf("he", "him"),
     code = listOf("C#", "Kotlin", "C++"),
-    askMeAbout = listOf("competitive programming", "problem-solving", "researching", "debugging in the middle of the night"),
+    askMeAbout = listOf("competitive programming", "problem-solving", "researching"),
     technologies = Technologies(
         backEnd = mapOf(
             "C#" to listOf("ASP.Net Core", "Entity Framework", "StackOverflow FAQs"),
